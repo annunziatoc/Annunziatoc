@@ -2,3 +2,5 @@
 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/) - [MyWebsite](https://chrisannunziato.com/) - [AlgoVisualizer](https://annunziatoviz.com/)
+
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=#b362ff&theme=purple_dark)
