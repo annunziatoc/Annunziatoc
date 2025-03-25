@@ -3,4 +3,4 @@
 
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/) - [MyWebsite](https://chrisannunziato.com/) - [AlgoVisualizer](https://annunziatoviz.com/)
 
-![Codewars](https://github.r2v.ch/codewars?user=MergeNine&name=true&top_languages=true&stroke=#b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=TotalAbsorb&stroke=COLOR)
