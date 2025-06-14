@@ -4,3 +4,6 @@
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/) - [MyWebsite](https://chrisannunziato.com/) - [AlgoVisualizer](https://annunziatoviz.com/)
 
 ![Codewars](https://github.r2v.ch/codewars?user=Annunziatoc&stroke=COLOR)
+
+## Projects
+🎮 [Conway's Game of Life](https://annunziatoc.github.io/Annunziatoc) - Cellular automaton simulation (vanilla js)
