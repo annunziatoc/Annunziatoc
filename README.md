@@ -7,3 +7,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/) - [MyWebsite](h
 
 ## Projects
 🎮 [Conway's Game of Life](https://annunziatoc.github.io/Annunziatoc) - Cellular automaton simulation (vanilla js)
+
+
+![2025-06-14 13-40-43 (1)](https://github.com/user-attachments/assets/1cf0f112-d490-4ca8-af68-47fb44d1a987)
