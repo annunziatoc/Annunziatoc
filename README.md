@@ -5,14 +5,14 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/) <br>
 
 <h3>Projects and Freelance work</h3>
 
-[SoundWay Sonography](https://https://soundwayinc.org//) - Built an online store for selling digital ultrasound training materials.<br>
-[MyWebsite](https://chrisannunziato.com/) - A personal Blog website. <br>
-[AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
+- [SoundWay Sonography](https://https://soundwayinc.org//) - Built an online store for selling digital ultrasound training materials.<br>
+- [MyWebsite](https://chrisannunziato.com/) - A personal Blog website. <br>
+- [AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
 
 
 
 
-## Projects
+#### And of course
 🎮 [Conway's Game of Life](https://annunziatoc.github.io/Annunziatoc) - Cellular automaton simulation (vanilla js)
 
 
