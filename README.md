@@ -16,17 +16,36 @@
 
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 
-<h3>Projects and Freelance work</h3>
+
+### I'm working on a FullStack Product
+
+### Zonetyper.com
+
+A typing app designed to help people transition to ergonomic split keyboards without losing productivity. Focuses on accuracy and proper finger patterns over raw speed.
+
+**Core Philosophy:**
+* Learn through "chunking" (typing phrases, not character-by-character)
+* "Zone in" on errors - force practice of difficult movements
+* Reduce RSI risk for the 1.8M+ workers typing 4.3M words/year
+* Make typing pleasant, not irritating
+
+**Key Features:**
+* Progressive difficulty ("delves")
+* Error-focused practice sessions
+* Multiplier system with animations
+* Optional multiplayer via SignalR for races
+* Paid stats/reports
+
+**Tech Stack:**
+* Frontend: React, TypeScript, Zustand, Zod, TailwindCSS, Framer Motion
+* Backend: .NET 7+, PostgreSQL, SignalR
+* Deploy: Azure + Docker
+
+
+<h2>Projects and Freelance work</h2>
 
 - [SoundWay Sonography](https://https://soundwayinc.org//) - Built an online store for selling digital ultrasound training materials.<br>
 - [MyWebsite](https://chrisannunziato.com/) - A personal Blog website. <br>
 - [AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
 
 
-
-
-#### And for fun,
-🎮 [Conway's Game of Life](https://annunziatoc.github.io/Annunziatoc) - Cellular automaton simulation (vanilla js)
-
-
-![2025-06-14 13-40-43 (1)](https://github.com/user-attachments/assets/1cf0f112-d490-4ca8-af68-47fb44d1a987)
