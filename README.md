@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi, I'm Chris Annunziato</h1> <br>
 
-<h3 align="center">Full-stack dev | React & .NET | M.S. Chemistry </h3>
+<h3 align="center">Full-stack Dev | React & .NET | M.S. Chemistry </h3>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 
