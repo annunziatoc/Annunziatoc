@@ -24,22 +24,22 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 A typing app designed to help people transition to ergonomic split keyboards without losing productivity. Focuses on accuracy and proper finger patterns over raw speed.
 
 **Core Philosophy:**
+* Facilitate office workers transitioning to split-ergo keyboards due to RSI (repeated strain injury)
 * Learn through "chunking" (typing phrases, not character-by-character)
 * "Zone in" on errors - force practice of difficult movements
-* Reduce RSI risk for the 1.8M+ workers typing 4.3M words/year
-* Make typing pleasant, not irritating
 
 **Key Features:**
-* Progressive difficulty ("delves")
 * Error-focused practice sessions
 * Multiplier system with animations
 * Optional multiplayer via SignalR for races
+* Progressive difficulty ("delves")
 * Paid stats/reports
 
+
 **Tech Stack:**
-* Frontend: React, TypeScript, Zustand, Zod, TailwindCSS, Framer Motion
-* Backend: .NET 7+, PostgreSQL, SignalR
-* Deploy: Azure + Docker
+* Frontend: React, TypeScript, TailwindCSS
+* Backend: .NET 10, PostgreSQL, SignalR
+* Deployment: Azure, Docker, Github Actions
 
 
 <h2>Projects and Freelance work</h2>
