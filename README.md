@@ -17,7 +17,7 @@
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 
 
-#### Happy to share my first of many products I look forward to making:
+### Happy to share my first of many products I look forward to making:
 
 <pre> 
   ███████╗ ██████╗ ███╗   ██╗███████╗    ████████╗██╗   ██╗██████╗ ███████╗██████╗ 
