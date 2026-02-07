@@ -19,7 +19,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 
 ### I'm working on a FullStack Product
 
-### Zonetyper.com
+### [Zonetyper](https://www.zonetyper.com)
 
 A typing app designed to help people transition to ergonomic split keyboards without losing productivity. Focuses on accuracy and proper finger patterns over raw speed.
 
