@@ -17,11 +17,21 @@
 Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
 
 
-### I'm working on a FullStack Product
+#### Happy to share my first of many products I look forward to making:
 
-### [Zonetyper](https://www.zonetyper.com)
+<pre> 
+  ███████╗ ██████╗ ███╗   ██╗███████╗    ████████╗██╗   ██╗██████╗ ███████╗██████╗ 
+     ███╔╝██╔═══██╗████╗  ██║██╔════╝    ╚══██╔══╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+    ███╔╝ ██║   ██║██╔██╗ ██║█████╗         ██║    ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+   ███╔╝  ██║   ██║██║╚██╗██║██╔══╝         ██║     ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗
+  ███████╗╚██████╔╝██║ ╚████║███████╗       ██║      ██║   ██║     ███████╗██║  ██║
+  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝       ╚═╝      ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝
+</pre>
 
-A typing app designed to help people transition to ergonomic split keyboards without losing productivity. Focuses on accuracy and proper finger patterns over raw speed.
+
+### [Zonetyper.com](https://www.zonetyper.com)
+
+A typing app designed to help people transition to ergonomic split keyboards. Focuses on accuracy and proper finger patterns over raw speed.
 
 **Core Philosophy:**
 * Facilitate office workers transitioning to split-ergo keyboards due to RSI (repeated strain injury)
