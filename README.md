@@ -47,7 +47,7 @@ A typing app designed to help people transition to ergonomic split keyboards. Fo
 
 
 **Tech Stack:**
-* Frontend: React, TypeScript, TailwindCSS
+* Frontend: React, TypeScript, CSS Modules
 * Backend: .NET 10, PostgreSQL, SignalR
 * Deployment: Azure, Docker, Github Actions
 
