@@ -54,7 +54,7 @@ A typing app designed to help people transition to ergonomic split keyboards. Fo
 
 <h2>Projects and Freelance work</h2>
 
-- [SoundWay Sonography](https://https://soundwayinc.org//) - Built an online store for selling digital ultrasound training materials.<br>
+- [SoundWay Sonography](https://https://soundwayinc.org/) - Built an online store for selling digital ultrasound training materials.<br>
 - [MyWebsite](https://chrisannunziato.com/) - A personal Blog website. <br>
 - [AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
 
