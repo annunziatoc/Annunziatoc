@@ -2,7 +2,6 @@
 <img title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp; 
 <img title="TypeScript" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;&nbsp; 
 <img title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;&nbsp; 
-<img title="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp;&nbsp;
 <img title="Vite" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img title="C#" alt="C#" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img title=".NET" alt=".NET" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -40,8 +39,7 @@ A typing app designed to help people transition to ergonomic split keyboards. Fo
 
 **Key Features:**
 * Error-focused practice sessions
-* Multiplier system with animations
-* Optional multiplayer via SignalR for races
+* Multiplier system with animations via SignalR
 * Progressive difficulty ("delves")
 * Paid stats/reports
 
@@ -55,7 +53,7 @@ A typing app designed to help people transition to ergonomic split keyboards. Fo
 <h2>Projects and Freelance work</h2>
 
 - [SoundWay Sonography](https://soundwayinc.org/) - Built an online store for selling digital ultrasound training materials.<br>
-- [MyWebsite](https://chrisannunziato.com/) - A personal Blog website. <br>
+- [MyWebsite](https://chrisannunziato.com/) - My personal Blog website. <br>
 - [AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
 
 
