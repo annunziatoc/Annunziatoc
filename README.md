@@ -17,7 +17,7 @@
 
 #### [Zonetyper.com](https://www.zonetyper.com)
 
-A full-stack production application deployed on AWS with a containerized Java/Spring Boot API, React frontend, and PostgreSQL database. Features real-time WPM tracking, session analytics, and leaderboards. End-to-end CI/CD via GitHub Actions with Docker and AWS Elastic Beanstalk.
+A full-stack production application with a containerized Java/Spring Boot API, React frontend, and PostgreSQL database. Features real-time WPM tracking, session analytics, and leaderboards. Deployed to AWS via CI/CD with GitHub Actions.
 
 **Tech Stack:** React, TypeScript, Java 21, Spring Boot 3, PostgreSQL, AWS, Docker, GitHub Actions
 
