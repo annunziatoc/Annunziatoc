@@ -1,59 +1,28 @@
 <div align="center"> 
-<img title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp; 
 <img title="TypeScript" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> &nbsp;&nbsp; 
 <img title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;&nbsp; 
-<img title="Vite" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-<img title="C#" alt="C#" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img title=".NET" alt=".NET" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img title="Azure" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img title="Java" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;&nbsp;
+<img title="Spring" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;&nbsp;
+<img title="PostgreSQL" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> &nbsp;&nbsp;
+<img title="Docker" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> &nbsp;&nbsp;
+<img title="AWS" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
 
-<h1 align="center">Hi, I'm Chris Annunziato</h1> <br>
+<h1 align="center">Hi, I'm Chris Annunziato</h1>
+<h3 align="center">Fullstack Dev | React & Spring Boot</h3>
 
-<h3 align="center">Full-stack Dev | React & .NET | M.S. Chemistry </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmannunziato/)
 
-Find me on [LinkedIn](https://www.linkedin.com/in/cmannunziato/)
+## Featured Project:
 
+#### [Zonetyper.com](https://www.zonetyper.com)
 
-### Happy to share my first of many products I look forward to making:
+A full-stack production application deployed on AWS with a containerized Java/Spring Boot API, React frontend, and PostgreSQL database. Features real-time WPM tracking, session analytics, and leaderboards. End-to-end CI/CD via GitHub Actions with Docker and AWS Elastic Beanstalk.
 
-<pre> 
-  ███████╗ ██████╗ ███╗   ██╗███████╗    ████████╗██╗   ██╗██████╗ ███████╗██████╗ 
-     ███╔╝██╔═══██╗████╗  ██║██╔════╝    ╚══██╔══╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-    ███╔╝ ██║   ██║██╔██╗ ██║█████╗         ██║    ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-   ███╔╝  ██║   ██║██║╚██╗██║██╔══╝         ██║     ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗
-  ███████╗╚██████╔╝██║ ╚████║███████╗       ██║      ██║   ██║     ███████╗██║  ██║
-  ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝       ╚═╝      ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝
-</pre>
-
-
-### [Zonetyper.com](https://www.zonetyper.com)
-
-A typing app designed to help people transition to ergonomic split keyboards. Focuses on accuracy and proper finger patterns over raw speed.
-
-**Core Philosophy:**
-* Facilitate office workers transitioning to split-ergo keyboards due to RSI (repeated strain injury)
-* Learn through "chunking" (typing phrases, not character-by-character)
-* "Zone in" on errors - force practice of difficult movements
-
-**Key Features:**
-* Error-focused practice sessions
-* Multiplier system with animations via SignalR
-* Progressive difficulty ("delves")
-* Paid stats/reports
-
-
-**Tech Stack:**
-* Frontend: React, TypeScript, CSS Modules
-* Backend: .NET 10, PostgreSQL, SignalR
-* Deployment: Azure, Docker, Github Actions
-
+**Tech Stack:** React, TypeScript, Java 21, Spring Boot 3, PostgreSQL, AWS, Docker, GitHub Actions
 
 <h2>Projects and Freelance work</h2>
 
-- [SoundWay Sonography](https://soundwayinc.org/) - Built an online store for selling digital ultrasound training materials.<br>
-- [MyWebsite](https://chrisannunziato.com/) - My personal Blog website. <br>
-- [AlgoVisualizer](https://annunziatoviz.com/) - An algorithm visualizer I used to learn React. <br>
-
-
+- [SoundWay Sonography](https://soundwayinc.org/) - Online store for digital ultrasound training materials.
+- [AlgoVisualizer](https://annunziatoviz.com/) - Algorithm visualizer built to learn React.
+- [MyWebsite](https://chrisannunziato.com/) - Personal blog.
