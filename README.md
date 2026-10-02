@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Chris Annunziato</h1>
-<h3 align="center">Fullstack Dev | React & Spring Boot</h3>
+<h3 align="center">Fullstack Dev | React | C# & .NET</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmannunziato/)
 
@@ -17,9 +17,9 @@
 
 #### [Zonetyper.com](https://www.zonetyper.com)
 
-A competitive typing application with a containerized Java/Spring Boot API, React frontend, and PostgreSQL database. Features real-time WPM tracking, session analytics, and leaderboards. Deployed to AWS via CI/CD with GitHub Actions.
+A competitive typing application with a containerized C#/ASP.NET Core API, React frontend, and PostgreSQL database.
 
-**Tech Stack:** React, TypeScript, Java 21, Spring Boot 3, PostgreSQL, AWS, Docker, GitHub Actions
+Tech Stack: React, TypeScript, C#, ASP.NET Core, PostgreSQL, Azure, Docker, GitHub Actions
 
 <h2>Projects and Freelance work</h2>
 
